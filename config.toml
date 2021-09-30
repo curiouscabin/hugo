@@ -1,4 +1,4 @@
-baseURL = "https://curiouscabin.com/blog"
+baseURL = "https://curiouscabin.github.io/hugo/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Curious Cabin"
@@ -14,7 +14,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 # disqusShortname = "yourdiscussshortname"
 
 [author]
-  name = "Cabin crew"
+  name = "Cabin Crew"
 
 [blackfriday]
   # hrefTargetBlank = true
